@@ -7,6 +7,7 @@ export default function Home() {
     <div className={styles.container}>
       <h1>Probando Julio</h1>
       <h2>Probando Gregory</h2>
+      <h2>Probando Llama</h2>
     </div>
   )
 }
